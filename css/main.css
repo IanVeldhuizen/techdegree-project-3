@@ -82,7 +82,7 @@ input[type="email"]:focus,
 input[type="tel"]:focus,
 textarea:focus,
 select:focus {
-  background-color: #ff7961;
+  background-color: #b18a83;
 
 }
 
@@ -219,9 +219,5 @@ button {
     resize: none;
   }
   
-  #zip {
-    
-  }
-
-
+  
 }
